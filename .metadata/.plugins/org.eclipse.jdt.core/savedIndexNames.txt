@@ -1,0 +1,18 @@
+INDEX VERSION 1.126+/home/simon/DevWork/SyJavaWorkspace/ProjectEuler/.metadata/.plugins/org.eclipse.jdt.core
+4278089860.index
+3022179843.index
+1798718510.index
+1367103113.index
+3724402502.index
+4260998203.index
+3319172843.index
+637226290.index
+3862091209.index
+2221705115.index
+2833134529.index
+123651593.index
+1221692153.index
+399873006.index
+2655016554.index
+1609565543.index
+4160489251.index
